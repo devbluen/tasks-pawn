@@ -3,7 +3,7 @@ Task for compiling pawn however in nodejs, with this method it is alerted audibl
 
 # 📃 How to install?
 1. Download files in release
-2. Extract ZIP in your main project
+2. Drag the files into .vscode and you're done.
 
 # 🚀 F5(build) configuration (only if you have never configured)
 ```json
@@ -17,7 +17,7 @@ Task for compiling pawn however in nodejs, with this method it is alerted audibl
 - Add this setting to your keybindings in vscode.
 
 # 📷 Preview
-![image](https://github.com/user-attachments/assets/738151bf-0bac-4bb0-a0ba-ed1a977fee18)
+![image](https://github.com/user-attachments/assets/d99e08db-42ed-4229-9c1d-ea4cffcb268c)
 
 # ⭐ Bonus
 - An "error" sound in windows is played to alert you that your compilation is complete.
